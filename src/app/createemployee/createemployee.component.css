@@ -1,0 +1,42 @@
+.mainDiv {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .fullWidth {
+    width: 100%;
+  }
+
+  .example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .example-margin {
+    margin: 0 10px;
+  }
+  button {
+      margin-right: 8px;
+
+  }
+  .heading {
+      color: darkgray;
+      text-transform: capitalize;
+      
+  }
+  .buttonDiv {
+      margin-left: 55%;
+  }
+  /* .backButton {
+    
+  } */
+  table {
+    width: 90%;
+  }
